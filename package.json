@@ -1,0 +1,20 @@
+{
+  "name": "notificationjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=8002",
+    "build": "browserify index.js > build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "13.0.1",
+    "live-server": "1.0.0"
+  },
+  "dependencies": {
+    "notificationsjs": "0.1.1"
+  }
+}
