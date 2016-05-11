@@ -15,6 +15,6 @@
     "live-server": "1.0.0"
   },
   "dependencies": {
-    "notificationsjs": "0.1.1"
+    "notificationsjs": "0.1.2"
   }
 }
